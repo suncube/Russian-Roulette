@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &117616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 429572}
+  - component: {fileID: 11467814}
+  m_Layer: 0
+  m_Name: SoundsController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &429572
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117616}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 420784}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11467814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a0d9eef76d7734ab098c47a0b5779a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MusicAudioClip:
+  - AudioClip: {fileID: 8300000, guid: ef668be30e731494c82bd6eb929b6257, type: 3}
+    ClipName: MainSound
+    isLoop: 1
+  EffectsAudioClip:
+  - AudioClip: {fileID: 8300000, guid: 5f623616f5e0dda45bf56ae511d391ab, type: 3}
+    ClipName: BarabanLockAction
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: 3feb6641e81849a4a97ee0e6ccf0dc77, type: 3}
+    ClipName: BarabanBack
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: 2c49dc4a1b2069f4b86af5cf31bdd31a, type: 3}
+    ClipName: EmptyFire
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: 5c8fddf546db7fd4cbcecd981022c719, type: 3}
+    ClipName: FireSpusk
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: d71b6134da4c9fc49846824f95c9318d, type: 3}
+    ClipName: HummerEmpty
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: 3ff8c5e0fe1b67a449124410da5f3e3e, type: 3}
+    ClipName: HummerEmtyFireQ
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: 3e420a73153f9e84dbd6302c962abba4, type: 3}
+    ClipName: HummerSet
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: 67a48006f873c464ab70a1c0969be06f, type: 3}
+    ClipName: PatronLoad
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: b2413a633958a4a41bd1480f270ad8b9, type: 3}
+    ClipName: Switch
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: c9d210cf9161db24ca56da52b827e5dd, type: 3}
+    ClipName: BarabanSpineBegin
+    isLoop: 0
+  - AudioClip: {fileID: 8300000, guid: f170947dc6b660145a13ee37460d873a, type: 3}
+    ClipName: BarabanSpineEnd
+    isLoop: 0
+  AudioClipInst: {fileID: 496486, guid: 837797e63056b9544a5769d12ee230a0, type: 3}
+--- !u!1 &157092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 420784}
+  - component: {fileID: 11490230}
+  m_Layer: 0
+  m_Name: Settings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &420784
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157092}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 429572}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11490230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a05cc12e54715cd40989def1222aa273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

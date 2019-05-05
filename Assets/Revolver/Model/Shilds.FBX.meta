@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: 2bb1e2169ca33a94ea0a7dcf598bd403
+timeCreated: 1442501201
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Shilda Brightness
+    100002: Shilda Language
+    100004: Shilda Quality
+    100006: Shilda Sound Effects
+    100008: Shilda Sound Main
+    100010: Shilda Switch
+    100012: //RootNode
+    400000: Shilda Brightness
+    400002: Shilda Language
+    400004: Shilda Quality
+    400006: Shilda Sound Effects
+    400008: Shilda Sound Main
+    400010: Shilda Switch
+    400012: //RootNode
+    2300000: Shilda Brightness
+    2300002: Shilda Language
+    2300004: Shilda Quality
+    2300006: Shilda Sound Effects
+    2300008: Shilda Sound Main
+    2300010: Shilda Switch
+    3300000: Shilda Brightness
+    3300002: Shilda Language
+    3300004: Shilda Quality
+    3300006: Shilda Sound Effects
+    3300008: Shilda Sound Main
+    3300010: Shilda Switch
+    4300000: Shilda Switch
+    4300002: Shilda Quality
+    4300004: Shilda Brightness
+    4300006: Shilda Language
+    4300008: Shilda Sound Effects
+    4300010: Shilda Sound Main
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
