@@ -1,7 +1,7 @@
 # Russian-Roulette
 
-![](http://drive.google.com/uc?export=view&id=1JcNKiefXo11b67JlcUhP8L0tyXXom-QN)
-![](http://drive.google.com/uc?export=view&id=1MbbagjovpDw4bmDqt08cw5dbxzwYjYjG)
+![](/ReadmeSource/preview1.gif)
+![](/ReadmeSource/preview2.gif)
 
 [Youtube full video](https://youtu.be/C3q9t2_YXd4)
 
