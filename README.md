@@ -15,7 +15,3 @@ After the first attempt, I decided to increase the complexity of the product. On
 
 Models by [Anatoli Zaitsau](https://github.com/AnatoliZaitsau) 
 
-
-
-#
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.donationalerts.com/r/suncube)
